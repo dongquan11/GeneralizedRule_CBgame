@@ -1,4 +1,4 @@
-#Numerical Experiments for Computing Appximate Equilibria of a Generalized-rule Colonel Blotto game. 
+# Numerical Experiments for Computing Appximate Equilibria of a Generalized-rule Colonel Blotto game. 
 
 ## A heuristic to find an approximation solution System (6.17):
 
