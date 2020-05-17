@@ -1,7 +1,6 @@
 # Numerical Experiments for Computing Appximate Equilibria of a Generalized-rule Colonel Blotto game. 
 
-## A heuristic to find an approximation solution System (6.17):
-
+## A heuristic to find an approximation solution of System (6.17), i.e., F(x,y) = (0,0):
 
 
 
